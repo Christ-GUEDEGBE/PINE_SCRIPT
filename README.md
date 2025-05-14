@@ -2,7 +2,7 @@
 
 # RSI + EMA Strategy for TradingView
 
-This Pine Script strategy uses a combination of RSI and two EMAs to capture entries during bullish trends with oversold pullbacks. It is optimized for hourly BTC/USDT trading but can be adapted to other markets.
+This Pine Script strategy uses a combination of RSI and two EMAs to capture entries during bullish trends with oversold pullbacks. It is optimized for hourly Euro / US Dollar trading but can be adapted to other markets.
 
 ## Features
 - EMA trend detection
